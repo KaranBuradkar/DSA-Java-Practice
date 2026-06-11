@@ -1,7 +1,10 @@
+package GeeksforGeeks.DataStructures.Array;
 
 // TASK: You are given an array of integers arr[]. You have to reverse the given array.
 // DIFFICULTY: EASY
 // LINK: https://www.geeksforgeeks.org/problems/reverse-an-array/1
+// INPUT: 1 2 3 4 5 6 7 8 9 10
+// OUTPUT: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 public class ReverseArray {
     public void reverseArray(int[] arr) {
         // code here
