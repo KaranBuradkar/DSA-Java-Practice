@@ -7,7 +7,7 @@ package GeeksforGeeks.DataStructures.Array;
 // collective ability from the pool of candidates.
 // DIFFICULTY: EASY
 // LINK: https://www.geeksforgeeks.org/problems/three-great-candidates0515/1
-// INPUT: Input: arr[] = [10, 3, 5, 6, 20]
+// INPUT: arr[] = [10, 3, 5, 6, 20]
 // OUTPUT: 1200
 
 public class MaxProduct_ThreeGreatCandidates {
