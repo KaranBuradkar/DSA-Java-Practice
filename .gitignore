@@ -29,4 +29,7 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+# Ignore
+/src/KunalKhushwa
+
 *.xml
