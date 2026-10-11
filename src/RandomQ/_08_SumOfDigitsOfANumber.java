@@ -2,7 +2,12 @@ package RandomQ;
 
 import java.util.Objects;
 
-public class SumOfDigitsOfANumber {
+/**
+ * WAP TO SUM OF DIGITS OF A NUMBER
+ * ex: 8164795 -> 40
+ */
+public class _08_SumOfDigitsOfANumber {
+
     public static void main(String[] args) {
         Integer number = 8164795;
         Integer expect = 40;
@@ -13,6 +18,7 @@ public class SumOfDigitsOfANumber {
     }
 
     private static Integer sumOfDigits(Integer number) {
+        number = Math.abs(number);
         Integer sum = 0;
         while (number > 0) {
             Integer reminder = number % 10;

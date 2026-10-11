@@ -1,7 +1,10 @@
 package RandomQ;
 
-// Write a program to find ASCII values of a character
-public class FindASCIIValue {
+/**
+ * WAP TO FIND ASCII VALUE OF GIVEN CHARACTER
+ * ex: o -> 111
+ */
+public class _05_FindASCIIValue {
     public static void main(String[] args) {
         char input = 'o';
 

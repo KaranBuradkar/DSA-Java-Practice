@@ -1,6 +1,11 @@
 package RandomQ;
 
-public class EvenOrOdd {
+/**
+ * WAP TO IDENTIFY GIVEN NUMBER IS EVEN OR ODD
+ * ( X % 2 == 0 -> EVEN ) AND
+ * ( X % 2 == 1 -> ODD )
+ */
+public class _04_EvenOrOdd {
     public static void main(String[] args) {
         int number = 1;
         boolean isEven = isEven(number);

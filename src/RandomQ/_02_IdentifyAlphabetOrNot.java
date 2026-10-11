@@ -1,6 +1,11 @@
 package RandomQ;
 
-public class IdentifyAlphabetOrNot {
+/**
+ * WAP TO IDENTIFY GIVEN CHARACTER IS ALPHABET OR NOT
+ * ( a, y, p, b ) -> ALPHABET AND
+ * ( ^ & % # $ ) -> NOT ALPHABET
+ */
+public class _02_IdentifyAlphabetOrNot {
     public static void main(String[] args) {
         char input = '^';
 

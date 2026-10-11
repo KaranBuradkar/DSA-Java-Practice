@@ -1,6 +1,11 @@
 package RandomQ;
 
-public class IdentifyNumberPositiveOrNegative {
+/**
+ * WAP TO IDENTIFY GIVEN NUMBER IS POSITIVE OR NEGATIVE
+ * ( 6, 9, 46 ) -> POSITIVE AND
+ * ( -4, -8, -197 ) -> NEGATIVE
+ */
+public class _03_IdentifyNumberPositiveOrNegative {
     public static void main(String[] args) {
         int number = -8;
         boolean isPositive = isPositive(number);

@@ -6,7 +6,8 @@ import java.util.Objects;
  * WAP TO REVERSE A GIVEN NUMBER
  * ex: 284 -> 482
  */
-public class _10_ReverseGivenNumber {
+public class _11_ReverseGivenNumber {
+
     public static void main(String[] args) {
         Integer number = 3739;
         Integer expected = 9373;

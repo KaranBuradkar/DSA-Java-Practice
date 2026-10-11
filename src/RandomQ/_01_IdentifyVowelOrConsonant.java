@@ -1,6 +1,11 @@
 package RandomQ;
 
-public class IdentifyVowelOrConsonant {
+/**
+ * WAP TO IDENTIFY GIVEN CHARACTER IS VOWEL OR CONSONANT
+ * ( a, e, i, o, u ) -> VOWEL AND
+ * ( b, c, d, ...y, z) -> CONSONANT
+ */
+public class _01_IdentifyVowelOrConsonant {
     public static void main(String[] args) {
         char ch = 'i';
         int identified = identifyVowelOrConsonant(ch);

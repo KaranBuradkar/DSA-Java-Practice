@@ -1,6 +1,10 @@
 package RandomQ;
 
-public class SumOfNNaturalNumbers {
+/**
+ * WAP TO SUM OF NATURAL NUMBERS FROM 1 TO N
+ * ex: 12 -> 78
+ */
+public class _09_SumOfNNaturalNumbers {
     public static void main(String[] args) {
         int N = 12;
         int expect = 78;
