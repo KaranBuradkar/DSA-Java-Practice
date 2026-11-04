@@ -1,4 +1,4 @@
-package GeeksforGeeks.leetcode;
+package leetcode;
 
 // FIND MAX PROFIT
 public class q121_BestTimeToBuyAndSellStock {
